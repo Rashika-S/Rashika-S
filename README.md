@@ -20,6 +20,6 @@ Passionate about crafting impactful digital experiences through technology and d
 ![](https://github-profile-trophy.vercel.app/?username=Rashika-S&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Rashika-S&icon=5&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
